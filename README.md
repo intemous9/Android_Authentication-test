@@ -1,0 +1,2 @@
+# Android_Authentication-test
+指紋認証やパターン認証などの個人的検証用リポジトリ
